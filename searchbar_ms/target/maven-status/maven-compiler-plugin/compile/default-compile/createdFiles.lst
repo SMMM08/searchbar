@@ -1,0 +1,12 @@
+searchbar\repository\ActorRepository.class
+searchbar\SearchbarApplication.class
+searchbar\repository\DirectorsRepository.class
+searchbar\service\SearchbarService.class
+searchbar\repository\ContentRepository.class
+searchbar\entity\Actors.class
+searchbar\ResultDTO.class
+searchbar\entity\Directors.class
+searchbar\entity\ContentHasActors.class
+searchbar\enumeration\SearchByEnum.class
+searchbar\controller\SearchbarController.class
+searchbar\entity\Content.class
